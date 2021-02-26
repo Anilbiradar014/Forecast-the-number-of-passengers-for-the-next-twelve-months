@@ -4,3 +4,5 @@ With the data on the number of passengers that have travelled with the airline o
 + To capture the level, trend and seasonality in the time series with different smoothing techniques.
 + Also build the different Auto-Regressive Models (ARIMA, ARMIAX, SARIMA, SARIMAX)
 + Selecting the best model based on RMSE and MAPE.
+
+[Click Here](https://github.com/Anilbiradar014/Forecast-the-number-of-passengers-for-the-next-twelve-months/blob/main/Time_series_Forecast.ipynb) for the detailed python file.
